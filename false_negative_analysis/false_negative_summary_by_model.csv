@@ -1,4 +1,0 @@
-model,total_hateful_examples,total_false_negatives,total_hateful_recall,identity_hateful_examples,identity_false_negatives,identity_hateful_recall
-baseline,594,72,0.8787878787878788,527,59,0.888045540796964
-balanced_guardrail,594,83,0.8602693602693603,527,67,0.8728652751423149
-aggressive_reduction,594,103,0.8265993265993266,527,87,0.8349146110056926
